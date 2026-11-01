@@ -7,7 +7,7 @@
   "modules": [
     {
       "id": "MODULE_01",
-      "name": "Example Module",
+      "name": "Module 1",
       "resources": [
         {
           "id": "resource_001",
@@ -16,6 +16,321 @@
           "url": "https://google.ca",
           "slide": "1.3",
           "status": "active"
+        },
+        {
+          "id": "resource_9d4f360eb279",
+          "type": "link",
+          "name": "Resource 1",
+          "url": "https://www.ancient-origins.net/news-general/medical-marijuana-modern-hunter-gatherers-use-cannabis-treat-intestinal-infections-020373",
+          "slide": "story/slides/slide9.xml",
+          "status": "active",
+          "storyline_trigger_id": "9d4f360e-b279-4439-938d-0c9da1959883"
+        },
+        {
+          "id": "resource_ab45426ff56f",
+          "type": "link",
+          "name": "Resource 2",
+          "url": "https://commons.wikimedia.org/wiki/File:Albarello_drug_jar,_Sicily,_1629_Wellcome_L0058721.jpg",
+          "slide": "story/slides/slidea.xml",
+          "status": "active",
+          "storyline_trigger_id": "ab45426f-f56f-402a-bc86-34ee060ac06e"
+        },
+        {
+          "id": "resource_dbb5b9754c0f",
+          "type": "link",
+          "name": "Resource 3",
+          "url": "https://commons.wikimedia.org/wiki/File:PEbers_c38.jpg",
+          "slide": "story/slides/slidec.xml",
+          "status": "active",
+          "storyline_trigger_id": "dbb5b975-4c0f-4368-8212-3f9be6bd8c75"
+        },
+        {
+          "id": "resource_6f3301496af4",
+          "type": "link",
+          "name": "Resource 4",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=255627",
+          "slide": "story/slides/slided.xml",
+          "status": "active",
+          "storyline_trigger_id": "6f330149-6af4-41cb-8a22-aaf914a08eb9"
+        },
+        {
+          "id": "resource_1f3a62246864",
+          "type": "link",
+          "name": "Resource 5",
+          "url": "https://www.rawpixel.com/image/327014/free-illustration-image-rye-flower-rye",
+          "slide": "story/slides/slided.xml",
+          "status": "active",
+          "storyline_trigger_id": "1f3a6224-6864-4ca0-a298-45aff1e9655e"
+        },
+        {
+          "id": "resource_4543bdeefcc1",
+          "type": "link",
+          "name": "Resource 6",
+          "url": "https://commons.wikimedia.org/wiki/File:Peyote_Cactus.jpg#file",
+          "slide": "story/slides/slidee.xml",
+          "status": "active",
+          "storyline_trigger_id": "4543bdee-fcc1-415b-9ccb-6bbc8ba7e9b3"
+        },
+        {
+          "id": "resource_d3bef95dc15d",
+          "type": "link",
+          "name": "Resource 7",
+          "url": "http://www.smithsonianmag.com/science-nature/whats-inside-a-2000-year-old-shipwreck-preserved-roman-pill-403649/?no-ist",
+          "slide": "story/slides/slidef.xml",
+          "status": "active",
+          "storyline_trigger_id": "d3bef95d-c15d-4635-998f-1b54a7320ae5"
+        },
+        {
+          "id": "resource_da307c42e024",
+          "type": "link",
+          "name": "Resource 8",
+          "url": "https://doi.org/10.1124/pr.115.011478",
+          "slide": "story/slides/slide14.xml",
+          "status": "active",
+          "storyline_trigger_id": "da307c42-e024-41cd-b24b-196f8ad574de"
+        },
+        {
+          "id": "resource_1d786a18be06",
+          "type": "link",
+          "name": "Resource 9",
+          "url": "http://thescienceexplorer.com/brain-and-body/how-does-lsd-radically-transform-individual-s-consciousness",
+          "slide": "story/slides/slide14.xml",
+          "status": "active",
+          "storyline_trigger_id": "1d786a18-be06-43fa-97ee-2c5f8ccbe4fd"
+        },
+        {
+          "id": "resource_54f9ed2b55de",
+          "type": "link",
+          "name": "Resource 10",
+          "url": "http://plantcurator.com/medicinal-plants-german/",
+          "slide": "story/slides/slide16.xml",
+          "status": "active",
+          "storyline_trigger_id": "54f9ed2b-55de-4969-8e9d-396f47729b6b"
+        },
+        {
+          "id": "resource_1925887525f2",
+          "type": "link",
+          "name": "Resource 11",
+          "url": "https://www.helios.co.uk/shop/curare",
+          "slide": "story/slides/slide17.xml",
+          "status": "active",
+          "storyline_trigger_id": "19258875-25f2-4bb5-bf41-738b6cc17d4e"
+        },
+        {
+          "id": "resource_e2887d3bfce0",
+          "type": "link",
+          "name": "Resource 12",
+          "url": "https://www.flaticon.com/free-icon/security_1332646?term=safety&page=1&position=19&page=1&position=19&related_id=1332646&origin=search",
+          "slide": "story/slides/slide21.xml",
+          "status": "active",
+          "storyline_trigger_id": "e2887d3b-fce0-4ade-b241-4a017cc654df"
+        },
+        {
+          "id": "resource_66f05112a457",
+          "type": "link",
+          "name": "Resource 13",
+          "url": "https://www.flaticon.com/free-icon/engineering_3079165?related_id=3079165",
+          "slide": "story/slides/slide21.xml",
+          "status": "active",
+          "storyline_trigger_id": "66f05112-a457-4d72-a653-2606abf520c3"
+        },
+        {
+          "id": "resource_28c687e1d578",
+          "type": "link",
+          "name": "Resource 14",
+          "url": "https://www.flaticon.com/free-icon/microscope_3515243?related_id=3515243",
+          "slide": "story/slides/slide21.xml",
+          "status": "active",
+          "storyline_trigger_id": "28c687e1-d578-4426-ac4a-9f3e04a7b644"
+        },
+        {
+          "id": "resource_1d47348109e8",
+          "type": "link",
+          "name": "Resource 15",
+          "url": "https://www-nejm-org.proxy.queensu.ca/doi/10.1056/NEJMoa2032183",
+          "slide": "story/slides/slide29.xml",
+          "status": "active",
+          "storyline_trigger_id": "1d473481-09e8-4982-95dc-7f2aba622b89"
+        },
+        {
+          "id": "resource_bf53f755c26a",
+          "type": "link",
+          "name": "Resource 16",
+          "url": "https://smart.servier.com/",
+          "slide": "story/slides/slide3a.xml",
+          "status": "active",
+          "storyline_trigger_id": "bf53f755-c26a-4a71-9856-4b064fadb053"
+        },
+        {
+          "id": "resource_0f0d8aae16cc",
+          "type": "link",
+          "name": "Resource 17",
+          "url": "https://proxy.queensu.ca/login?url=http://dx.doi.org/10.1126/science.164.3881.851",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "0f0d8aae-16cc-4cea-ba6a-733f4d85548e"
+        },
+        {
+          "id": "resource_2f4be4ff8075",
+          "type": "link",
+          "name": "Resource 18",
+          "url": "https://thenounproject.com/term/cream-jar/2285060/",
+          "slide": "story/slides/slide54.xml",
+          "status": "active",
+          "storyline_trigger_id": "2f4be4ff-8075-4a1d-808f-dbdd18e4e51d"
+        },
+        {
+          "id": "resource_d73c84b2178f",
+          "type": "link",
+          "name": "Resource 19",
+          "url": "https://thenounproject.com/term/nicotine-patch/3514434/",
+          "slide": "story/slides/slide54.xml",
+          "status": "active",
+          "storyline_trigger_id": "d73c84b2-178f-431f-a995-aacbaba7ab3c"
+        },
+        {
+          "id": "resource_974c6759ce5a",
+          "type": "link",
+          "name": "Resource 20",
+          "url": "https://thenounproject.com/term/inhaler/829779/",
+          "slide": "story/slides/slide54.xml",
+          "status": "active",
+          "storyline_trigger_id": "974c6759-ce5a-401e-bc2d-7e60a253d04b"
+        },
+        {
+          "id": "resource_c8251e589768",
+          "type": "link",
+          "name": "Resource 21",
+          "url": "http://www.nutritionaloutlook.com/articles/dietary-supplements-and-bioavailability-looking-some-action",
+          "slide": "story/slides/slide57.xml",
+          "status": "active",
+          "storyline_trigger_id": "c8251e58-9768-4bc7-8cf8-c60ee2b70d5f"
+        },
+        {
+          "id": "resource_6db739497c1b",
+          "type": "link",
+          "name": "Resource 22",
+          "url": "https://toolbox.eupati.eu/glossary/pharmacokinetics/",
+          "slide": "story/slides/slide59.xml",
+          "status": "active",
+          "storyline_trigger_id": "6db73949-7c1b-4a3c-9e96-293daa06d75f"
+        },
+        {
+          "id": "resource_3974c3a711fc",
+          "type": "link",
+          "name": "Resource 23",
+          "url": "https://smart.servier.com/",
+          "slide": "story/slides/slide5a.xml",
+          "status": "active",
+          "storyline_trigger_id": "3974c3a7-11fc-4eb1-94c4-edac68450000"
+        },
+        {
+          "id": "resource_1a316c32fc05",
+          "type": "link",
+          "name": "Resource 24",
+          "url": "https://smart.servier.com/",
+          "slide": "story/slides/slide5a.xml",
+          "status": "active",
+          "storyline_trigger_id": "1a316c32-fc05-4aa4-8f96-826308b851ff"
+        },
+        {
+          "id": "resource_419aab6bc06a",
+          "type": "link",
+          "name": "Resource 25",
+          "url": "https://smart.servier.com/",
+          "slide": "story/slides/slide5a.xml",
+          "status": "active",
+          "storyline_trigger_id": "419aab6b-c06a-47c5-be96-f3ded1bb0070"
+        },
+        {
+          "id": "resource_27fb243b9d3e",
+          "type": "link",
+          "name": "Resource 26",
+          "url": "https://smart.servier.com/",
+          "slide": "story/slides/slide5a.xml",
+          "status": "active",
+          "storyline_trigger_id": "27fb243b-9d3e-4055-bddc-5030e92e0039"
+        },
+        {
+          "id": "resource_cf31db68d04c",
+          "type": "link",
+          "name": "Resource 27",
+          "url": "https://smart.servier.com/",
+          "slide": "story/slides/slide5a.xml",
+          "status": "active",
+          "storyline_trigger_id": "cf31db68-d04c-44da-af5b-38376a2894c2"
+        },
+        {
+          "id": "resource_c0a8cd90e0c5",
+          "type": "link",
+          "name": "Resource 28",
+          "url": "https://www.orlandorecovery.com/long-term-addiction-treatment-maintenance/correlation-drug-half-life-medicines/#gref",
+          "slide": "story/slides/slide5b.xml",
+          "status": "active",
+          "storyline_trigger_id": "c0a8cd90-e0c5-4600-b859-b4ce73161c2c"
+        },
+        {
+          "id": "resource_27ea01fb61af",
+          "type": "link",
+          "name": "Resource 29",
+          "url": "https://smart.servier.com/",
+          "slide": "story/slides/slide7e.xml",
+          "status": "active",
+          "storyline_trigger_id": "27ea01fb-61af-4b82-b1d3-e42f7c807fd9"
+        },
+        {
+          "id": "resource_f034d60c6a87",
+          "type": "link",
+          "name": "Resource 30",
+          "url": "https://www.compoundchem.com/2015/07/30/neurotransmitters/",
+          "slide": "story/slides/slide89.xml",
+          "status": "active",
+          "storyline_trigger_id": "f034d60c-6a87-4b92-b3af-6772b1233b3c"
+        },
+        {
+          "id": "resource_41ae96893589c907",
+          "type": "link",
+          "name": "Resource 31",
+          "url": "https://www.compoundchem.com/2015/07/30/neurotransmitters/",
+          "slide": "story/slides/slide8a.xml",
+          "status": "active",
+          "storyline_trigger_id": "f034d60c-6a87-4b92-b3af-6772b1233b3c"
+        },
+        {
+          "id": "resource_f1d600908aa38388",
+          "type": "link",
+          "name": "Resource 32",
+          "url": "https://www.compoundchem.com/2015/07/30/neurotransmitters/",
+          "slide": "story/slides/slide8b.xml",
+          "status": "active",
+          "storyline_trigger_id": "f034d60c-6a87-4b92-b3af-6772b1233b3c"
+        },
+        {
+          "id": "resource_508a62c2fa08a5d9",
+          "type": "link",
+          "name": "Resource 33",
+          "url": "https://www.compoundchem.com/2015/07/30/neurotransmitters/",
+          "slide": "story/slides/slide8c.xml",
+          "status": "active",
+          "storyline_trigger_id": "f034d60c-6a87-4b92-b3af-6772b1233b3c"
+        },
+        {
+          "id": "resource_96c40edf15bf4bc9",
+          "type": "link",
+          "name": "Resource 34",
+          "url": "https://www.compoundchem.com/2015/07/30/neurotransmitters/",
+          "slide": "story/slides/slide8d.xml",
+          "status": "active",
+          "storyline_trigger_id": "f034d60c-6a87-4b92-b3af-6772b1233b3c"
+        },
+        {
+          "id": "resource_69ea7e7a920eb35b",
+          "type": "link",
+          "name": "Resource 35",
+          "url": "https://www.compoundchem.com/2015/07/30/neurotransmitters/",
+          "slide": "story/slides/slide8e.xml",
+          "status": "active",
+          "storyline_trigger_id": "f034d60c-6a87-4b92-b3af-6772b1233b3c"
         }
       ]
     },
