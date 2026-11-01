@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "course": {
-    "id": "COURSE_001",
-    "name": "Example Course"
+    "id": "PHAR100",
+    "name": "PHAR100"
   },
   "modules": [
     {
@@ -16,6 +16,723 @@
           "url": "https://google.ca",
           "slide": "1.3",
           "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "MODULE_06",
+      "name": "Module 6",
+      "resources": [
+        {
+          "id": "resource_13de7bd6765f",
+          "type": "link",
+          "name": "Resource 1",
+          "url": "https://www.ccohs.ca/oshanswers/chemicals/whmis_ghs/pictograms.html",
+          "slide": "story/slides/slide8.xml",
+          "status": "active",
+          "storyline_trigger_id": "13de7bd6-765f-427d-bf37-75e6ff7cb8d7"
+        },
+        {
+          "id": "resource_25feeb47eb55",
+          "type": "link",
+          "name": "Resource 2",
+          "url": "http://www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_16_chart.html",
+          "slide": "story/slides/slide9.xml",
+          "status": "active",
+          "storyline_trigger_id": "25feeb47-eb55-4bd9-aeab-ad0ce7046b8e"
+        },
+        {
+          "id": "resource_c65c6caf068c",
+          "type": "link",
+          "name": "Resource 3",
+          "url": "https://www.flaticon.com/free-icon/factory_699404?term=pollution&page=1&position=16&page=1&position=16&related_id=699404&origin=search",
+          "slide": "story/slides/slidea.xml",
+          "status": "active",
+          "storyline_trigger_id": "c65c6caf-068c-48c5-acc2-088ad1fc9e6e"
+        },
+        {
+          "id": "resource_3f66c84dc017",
+          "type": "link",
+          "name": "Resource 4",
+          "url": "https://www.flaticon.com/free-icon/cigarette_595420?term=cigarette&page=1&position=4&page=1&position=4&related_id=595420&origin=search",
+          "slide": "story/slides/slidea.xml",
+          "status": "active",
+          "storyline_trigger_id": "3f66c84d-c017-4913-8659-d3e1b71caa0f"
+        },
+        {
+          "id": "resource_a51446f2d50e",
+          "type": "link",
+          "name": "Resource 5",
+          "url": "https://www.flaticon.com/premium-icon/aerosol_408542?term=aerosol&page=1&position=1&page=1&position=1&related_id=408542&origin=search",
+          "slide": "story/slides/slidea.xml",
+          "status": "active",
+          "storyline_trigger_id": "a51446f2-d50e-495d-a052-0e1523d1f1a9"
+        },
+        {
+          "id": "resource_b2992335bbee",
+          "type": "link",
+          "name": "Resource 6",
+          "url": "https://www.flaticon.com/free-icon/factory_699404?term=pollution&page=1&position=16&page=1&position=16&related_id=699404&origin=search",
+          "slide": "story/slides/slideb.xml",
+          "status": "active",
+          "storyline_trigger_id": "b2992335-bbee-4d9f-a5c7-da1ec59d144b"
+        },
+        {
+          "id": "resource_16efc30646172c0c",
+          "type": "link",
+          "name": "Resource 7",
+          "url": "https://www.flaticon.com/free-icon/factory_699404?term=pollution&page=1&position=16&page=1&position=16&related_id=699404&origin=search",
+          "slide": "story/slides/slidec.xml",
+          "status": "active",
+          "storyline_trigger_id": "b2992335-bbee-4d9f-a5c7-da1ec59d144b"
+        },
+        {
+          "id": "resource_8b0367325854112b",
+          "type": "link",
+          "name": "Resource 8",
+          "url": "https://www.flaticon.com/free-icon/factory_699404?term=pollution&page=1&position=16&page=1&position=16&related_id=699404&origin=search",
+          "slide": "story/slides/slided.xml",
+          "status": "active",
+          "storyline_trigger_id": "b2992335-bbee-4d9f-a5c7-da1ec59d144b"
+        },
+        {
+          "id": "resource_333b3c988d6e",
+          "type": "link",
+          "name": "Resource 9",
+          "url": "http://science.howstuffworks.com/nature/natural-disasters/volcanic-ash1.htm",
+          "slide": "story/slides/slidee.xml",
+          "status": "active",
+          "storyline_trigger_id": "333b3c98-8d6e-4e8e-b153-53bf2dbabdc6"
+        },
+        {
+          "id": "resource_85677ba0ccbd",
+          "type": "link",
+          "name": "Resource 10",
+          "url": "https://unsplash.com/photos/cekJ1XXx1Rk",
+          "slide": "story/slides/slidee.xml",
+          "status": "active",
+          "storyline_trigger_id": "85677ba0-ccbd-4839-9eda-ac2d5cfea40f"
+        },
+        {
+          "id": "resource_fc309da4e6ac",
+          "type": "link",
+          "name": "Resource 11",
+          "url": "https://www.flaticon.com/free-icon/factory_699404?term=pollution&page=1&position=16&page=1&position=16&related_id=699404&origin=search",
+          "slide": "story/slides/slidee.xml",
+          "status": "active",
+          "storyline_trigger_id": "fc309da4-e6ac-42bc-ac0d-e13698a41a05"
+        },
+        {
+          "id": "resource_88edc6fb6b74",
+          "type": "link",
+          "name": "Resource 12",
+          "url": "http://airqualityjhw.weebly.com/particulate-matter.html",
+          "slide": "story/slides/slidef.xml",
+          "status": "active",
+          "storyline_trigger_id": "88edc6fb-6b74-405e-9589-8b6928683d80"
+        },
+        {
+          "id": "resource_0c8c0a514814",
+          "type": "link",
+          "name": "Resource 13",
+          "url": "https://www.flaticon.com/free-icon/factory_699404?term=pollution&page=1&position=16&page=1&position=16&related_id=699404&origin=search",
+          "slide": "story/slides/slidef.xml",
+          "status": "active",
+          "storyline_trigger_id": "0c8c0a51-4814-4886-b5e4-766903432cd1"
+        },
+        {
+          "id": "resource_d7f782fc4abd",
+          "type": "link",
+          "name": "Resource 14",
+          "url": "https://www.flaticon.com/free-icon/cigarette_595420?term=cigarette&page=1&position=4&page=1&position=4&related_id=595420&origin=search",
+          "slide": "story/slides/slide10.xml",
+          "status": "active",
+          "storyline_trigger_id": "d7f782fc-4abd-44eb-b37b-b4ab42608d3b"
+        },
+        {
+          "id": "resource_196fe76dfe07",
+          "type": "link",
+          "name": "Resource 15",
+          "url": "https://www.flaticon.com/premium-icon/aerosol_408542?term=aerosol&page=1&position=1&page=1&position=1&related_id=408542&origin=search",
+          "slide": "story/slides/slide11.xml",
+          "status": "active",
+          "storyline_trigger_id": "196fe76d-fe07-48eb-a0c5-96bc16190daa"
+        },
+        {
+          "id": "resource_3c38b6c58d3f",
+          "type": "link",
+          "name": "Resource 16",
+          "url": "https://www.flaticon.com/premium-icon/aerosol_408542?term=aerosol&page=1&position=1&page=1&position=1&related_id=408542&origin=search",
+          "slide": "story/slides/slide12.xml",
+          "status": "active",
+          "storyline_trigger_id": "3c38b6c5-8d3f-4aa0-84c5-781503945641"
+        },
+        {
+          "id": "resource_8b0d6b21559b",
+          "type": "link",
+          "name": "Resource 17",
+          "url": "http://www.clker.com/clipart-24631.html",
+          "slide": "story/slides/slide12.xml",
+          "status": "active",
+          "storyline_trigger_id": "8b0d6b21-559b-4ed9-98ec-d95eb9f241e8"
+        },
+        {
+          "id": "resource_da4bffff70fc85a0",
+          "type": "link",
+          "name": "Resource 18",
+          "url": "https://www.flaticon.com/premium-icon/aerosol_408542?term=aerosol&page=1&position=1&page=1&position=1&related_id=408542&origin=search",
+          "slide": "story/slides/slide13.xml",
+          "status": "active",
+          "storyline_trigger_id": "3c38b6c5-8d3f-4aa0-84c5-781503945641"
+        },
+        {
+          "id": "resource_f1c3633ef87a",
+          "type": "link",
+          "name": "Resource 19",
+          "url": "http://www.clker.com/clipart-12494.html",
+          "slide": "story/slides/slide13.xml",
+          "status": "active",
+          "storyline_trigger_id": "f1c3633e-f87a-4f87-b34c-61650e6630a4"
+        },
+        {
+          "id": "resource_e1ba6b386b92",
+          "type": "link",
+          "name": "Resource 20",
+          "url": "https://www.flaticon.com/premium-icon/lead_2162995",
+          "slide": "story/slides/slide15.xml",
+          "status": "active",
+          "storyline_trigger_id": "e1ba6b38-6b92-4b02-8bed-4a7abef424a4"
+        },
+        {
+          "id": "resource_f5928df29165",
+          "type": "link",
+          "name": "Resource 21",
+          "url": "https://www.flaticon.com/free-icon/mercury_4831284",
+          "slide": "story/slides/slide15.xml",
+          "status": "active",
+          "storyline_trigger_id": "f5928df2-9165-428a-93af-72c18f10873d"
+        },
+        {
+          "id": "resource_68785353eef7",
+          "type": "link",
+          "name": "Resource 22",
+          "url": "https://www.flaticon.com/free-icon/bpa-free_3778962?related_id=3778962",
+          "slide": "story/slides/slide15.xml",
+          "status": "active",
+          "storyline_trigger_id": "68785353-eef7-4978-a9a1-a444d2be00d4"
+        },
+        {
+          "id": "resource_994357d0fc9a",
+          "type": "link",
+          "name": "Resource 23",
+          "url": "http://www.cdc.gov/nceh/lead",
+          "slide": "story/slides/slide16.xml",
+          "status": "active",
+          "storyline_trigger_id": "994357d0-fc9a-4bea-8333-0db83c5ce79e"
+        },
+        {
+          "id": "resource_609cc4445f03",
+          "type": "link",
+          "name": "Resource 24",
+          "url": "https://www.flaticon.com/premium-icon/lead_2162995",
+          "slide": "story/slides/slide16.xml",
+          "status": "active",
+          "storyline_trigger_id": "609cc444-5f03-4ead-8f2d-5b6304de8212"
+        },
+        {
+          "id": "resource_0540bd6d049e",
+          "type": "link",
+          "name": "Resource 25",
+          "url": "http://2.bp.blogspot.com/-psYo_98TGJQ/VL6pFsAlN9I/AAAAAAAAKho/L9ZO4e6E7ME/s1600/gas-pump-regulations-for-people-with-disabilities.jpg",
+          "slide": "story/slides/slide17.xml",
+          "status": "active",
+          "storyline_trigger_id": "0540bd6d-049e-46f8-b7c6-07f8d195e1e7"
+        },
+        {
+          "id": "resource_e97ee2ae3cab",
+          "type": "link",
+          "name": "Resource 26",
+          "url": "https://www.flaticon.com/premium-icon/lead_2162995",
+          "slide": "story/slides/slide17.xml",
+          "status": "active",
+          "storyline_trigger_id": "e97ee2ae-3cab-4772-b333-933331f682c0"
+        },
+        {
+          "id": "resource_80f1ed5bc80fc676",
+          "type": "link",
+          "name": "Resource 27",
+          "url": "https://www.flaticon.com/premium-icon/lead_2162995",
+          "slide": "story/slides/slide18.xml",
+          "status": "active",
+          "storyline_trigger_id": "609cc444-5f03-4ead-8f2d-5b6304de8212"
+        },
+        {
+          "id": "resource_02ba00bda3f8",
+          "type": "link",
+          "name": "Resource 28",
+          "url": "https://smart.servier.com/",
+          "slide": "story/slides/slide18.xml",
+          "status": "active",
+          "storyline_trigger_id": "02ba00bd-a3f8-48e2-bd26-1e4a26885c10"
+        },
+        {
+          "id": "resource_9dccaa4a2935",
+          "type": "link",
+          "name": "Resource 29",
+          "url": "https://www.flaticon.com/free-icon/mercury_4831284",
+          "slide": "story/slides/slide19.xml",
+          "status": "active",
+          "storyline_trigger_id": "9dccaa4a-2935-4f8d-bb1d-c3504b3822d4"
+        },
+        {
+          "id": "resource_3e9bf5748756",
+          "type": "link",
+          "name": "Resource 30",
+          "url": "http://www.groundtruthtrekking.org/Graphics/MercuryFoodChain.html",
+          "slide": "story/slides/slide19.xml",
+          "status": "active",
+          "storyline_trigger_id": "3e9bf574-8756-48d5-ae25-90f850d2715c"
+        },
+        {
+          "id": "resource_e3ba5bd61b39",
+          "type": "link",
+          "name": "Resource 31",
+          "url": "https://www.flaticon.com/free-icon/mercury_4831284",
+          "slide": "story/slides/slide1a.xml",
+          "status": "active",
+          "storyline_trigger_id": "e3ba5bd6-1b39-4ac7-a829-536cfdb82875"
+        },
+        {
+          "id": "resource_a6320a543a25e683",
+          "type": "link",
+          "name": "Resource 32",
+          "url": "https://www.flaticon.com/free-icon/mercury_4831284",
+          "slide": "story/slides/slide1b.xml",
+          "status": "active",
+          "storyline_trigger_id": "e3ba5bd6-1b39-4ac7-a829-536cfdb82875"
+        },
+        {
+          "id": "resource_5f5c461da2bf",
+          "type": "link",
+          "name": "Resource 33",
+          "url": "https://en.wikipedia.org/wiki/Activated_charcoal_(medication)",
+          "slide": "story/slides/slide1b.xml",
+          "status": "active",
+          "storyline_trigger_id": "5f5c461d-a2bf-41ed-9753-92d74bcbf1db"
+        },
+        {
+          "id": "resource_1bd3bb73c8ec4df8",
+          "type": "link",
+          "name": "Resource 34",
+          "url": "https://www.flaticon.com/free-icon/mercury_4831284",
+          "slide": "story/slides/slide1c.xml",
+          "status": "active",
+          "storyline_trigger_id": "e3ba5bd6-1b39-4ac7-a829-536cfdb82875"
+        },
+        {
+          "id": "resource_8c883bf8dfef5488",
+          "type": "link",
+          "name": "Resource 35",
+          "url": "https://www.flaticon.com/free-icon/mercury_4831284",
+          "slide": "story/slides/slide1d.xml",
+          "status": "active",
+          "storyline_trigger_id": "e3ba5bd6-1b39-4ac7-a829-536cfdb82875"
+        },
+        {
+          "id": "resource_f7714cc71b66",
+          "type": "link",
+          "name": "Resource 36",
+          "url": "https://www.flaticon.com/free-icon/water-bottle_4507444",
+          "slide": "story/slides/slide1f.xml",
+          "status": "active",
+          "storyline_trigger_id": "f7714cc7-1b66-4d0e-aa80-0935ba15dce0"
+        },
+        {
+          "id": "resource_6e90800cc236",
+          "type": "link",
+          "name": "Resource 37",
+          "url": "https://www.flaticon.com/free-icon/mercury_4831284",
+          "slide": "story/slides/slide1f.xml",
+          "status": "active",
+          "storyline_trigger_id": "6e90800c-c236-477a-89c7-3eb69933b067"
+        },
+        {
+          "id": "resource_fa0a9be94282",
+          "type": "link",
+          "name": "Resource 38",
+          "url": "https://www.acs.org/content/acs/en/molecule-of-the-week/archive/b/bisphenol-a.html",
+          "slide": "story/slides/slide20.xml",
+          "status": "active",
+          "storyline_trigger_id": "fa0a9be9-4282-4cb7-9b7f-a4df3e6d5ae1"
+        },
+        {
+          "id": "resource_d38075b269ea",
+          "type": "link",
+          "name": "Resource 39",
+          "url": "https://www.flaticon.com/free-icon/bpa-free_3778962?related_id=3778962",
+          "slide": "story/slides/slide20.xml",
+          "status": "active",
+          "storyline_trigger_id": "d38075b2-69ea-423d-9cfc-d42662d4e15d"
+        },
+        {
+          "id": "resource_70bed708f559",
+          "type": "link",
+          "name": "Resource 40",
+          "url": "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_816057412??hei=64&wid=64&qlt=50",
+          "slide": "story/slides/slide20.xml",
+          "status": "active",
+          "storyline_trigger_id": "70bed708-f559-4a3a-bea4-01ac86daccd4"
+        },
+        {
+          "id": "resource_250a22386b60",
+          "type": "link",
+          "name": "Resource 41",
+          "url": "https://www.bangkokpost.com/thailand/general/1667156/committee-warned-over-paraquat-ban",
+          "slide": "story/slides/slide23.xml",
+          "status": "active",
+          "storyline_trigger_id": "250a2238-6b60-4000-956b-db9f058bd768"
+        },
+        {
+          "id": "resource_0c9387960807",
+          "type": "link",
+          "name": "Resource 42",
+          "url": "http://www.military.com/benefits/veterans-health-care/agent-orange.html",
+          "slide": "story/slides/slide24.xml",
+          "status": "active",
+          "storyline_trigger_id": "0c938796-0807-418f-a82e-ebefa5179d68"
+        },
+        {
+          "id": "resource_b28255a7c0e4",
+          "type": "link",
+          "name": "Resource 43",
+          "url": "http://www.independent.co.uk/news/people/viktor-yushchenko-every-politician-in-ukraine-who-turns-to-the-west-is-in-danger-a6694311.html",
+          "slide": "story/slides/slide25.xml",
+          "status": "active",
+          "storyline_trigger_id": "b28255a7-c0e4-4615-b2af-07564aa141ca"
+        },
+        {
+          "id": "resource_6b4af3f18624",
+          "type": "link",
+          "name": "Resource 44",
+          "url": "http://www.independent.co.uk/news/people/viktor-yushchenko-every-politician-in-ukraine-who-turns-to-the-west-is-in-danger-a6694311.html",
+          "slide": "story/slides/slide25.xml",
+          "status": "active",
+          "storyline_trigger_id": "6b4af3f1-8624-476f-8498-cf5dee522e1c"
+        },
+        {
+          "id": "resource_240a1b2bc038",
+          "type": "link",
+          "name": "Resource 45",
+          "url": "http://www.panna.org/resources/ddt-story",
+          "slide": "story/slides/slide26.xml",
+          "status": "active",
+          "storyline_trigger_id": "240a1b2b-c038-4bf1-9874-9e85f55f9c91"
+        },
+        {
+          "id": "resource_9b66e88ffa7f",
+          "type": "link",
+          "name": "Resource 46",
+          "url": "http://science.howstuffworks.com/nature/natural-disasters/volcanic-ash1.htm",
+          "slide": "story/slides/slide29.xml",
+          "status": "active",
+          "storyline_trigger_id": "9b66e88f-fa7f-447b-b205-a6fd9b766dc0"
+        },
+        {
+          "id": "resource_0d0a0ded086b59d7",
+          "type": "link",
+          "name": "Resource 47",
+          "url": "https://unsplash.com/photos/cekJ1XXx1Rk",
+          "slide": "story/slides/slide2b.xml",
+          "status": "active",
+          "storyline_trigger_id": "85677ba0-ccbd-4839-9eda-ac2d5cfea40f"
+        },
+        {
+          "id": "resource_2503123f87f6",
+          "type": "link",
+          "name": "Resource 48",
+          "url": "https://www.flaticon.com/free-icon/plant_2719867?term=soil&related_id=2719867",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "2503123f-87f6-4ce4-be28-9fc42be953b7"
+        },
+        {
+          "id": "resource_7da1941ebf6b",
+          "type": "link",
+          "name": "Resource 49",
+          "url": "https://www.flaticon.com/free-icon/water_2209792?related_id=2209801&origin=search",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "7da1941e-bf6b-4d5a-8a1e-430d77ea0b84"
+        },
+        {
+          "id": "resource_d89c93d0c8e7",
+          "type": "link",
+          "name": "Resource 50",
+          "url": "https://www.flaticon.com/free-icon/waste-water_1404846?related_id=1404846&origin=search",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "d89c93d0-c8e7-45db-87dc-7df85aa915d0"
+        },
+        {
+          "id": "resource_99a21274d901",
+          "type": "link",
+          "name": "Resource 51",
+          "url": "https://www.flaticon.com/premium-icon/barn_1648581",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "99a21274-d901-4180-9442-d1b4acf8a27c"
+        },
+        {
+          "id": "resource_6facb876a639",
+          "type": "link",
+          "name": "Resource 52",
+          "url": "https://www.flaticon.com/free-icon/spreader_2826348?related_id=2826348&origin=search",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "6facb876-a639-4c79-97b1-8a03ad389741"
+        },
+        {
+          "id": "resource_f925feb3038d",
+          "type": "link",
+          "name": "Resource 53",
+          "url": "https://www.flaticon.com/free-icon/cow_2395796?term=cows&page=1&position=1&page=1&position=1&related_id=2395796&origin=search",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "f925feb3-038d-4a0a-a75c-667e9cbfa424"
+        },
+        {
+          "id": "resource_f64fe90469a2",
+          "type": "link",
+          "name": "Resource 54",
+          "url": "https://www.flaticon.com/free-icon/pill_2012993?related_id=2013016&origin=search",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "f64fe904-69a2-4bde-b85c-5f5f1e89b1d1"
+        },
+        {
+          "id": "resource_9f0abec54a04",
+          "type": "link",
+          "name": "Resource 55",
+          "url": "https://www.flaticon.com/premium-icon/drugs_1764364",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "9f0abec5-4a04-47f9-8516-d4ca329f56ca"
+        },
+        {
+          "id": "resource_ef0219b149ca",
+          "type": "link",
+          "name": "Resource 56",
+          "url": "https://www.flaticon.com/free-icon/fish_2271030",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "ef0219b1-49ca-4f6b-a641-734af8a1e83a"
+        },
+        {
+          "id": "resource_838f04266f6b",
+          "type": "link",
+          "name": "Resource 57",
+          "url": "https://www.flaticon.com/free-icon/pills_807159",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "838f0426-6f6b-4b0c-8ce3-fc623ca892ab"
+        },
+        {
+          "id": "resource_cf1c3212d12a",
+          "type": "link",
+          "name": "Resource 58",
+          "url": "https://www.flaticon.com/free-icon/industry_2979608",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "cf1c3212-d12a-4f4e-b598-2518f5f91a21"
+        },
+        {
+          "id": "resource_1060ed14527479b3",
+          "type": "link",
+          "name": "Resource 59",
+          "url": "https://www.flaticon.com/premium-icon/lead_2162995",
+          "slide": "story/slides/slide31.xml",
+          "status": "active",
+          "storyline_trigger_id": "e1ba6b38-6b92-4b02-8bed-4a7abef424a4"
+        },
+        {
+          "id": "resource_df5a14850aedc1fb",
+          "type": "link",
+          "name": "Resource 60",
+          "url": "https://www.flaticon.com/free-icon/mercury_4831284",
+          "slide": "story/slides/slide31.xml",
+          "status": "active",
+          "storyline_trigger_id": "f5928df2-9165-428a-93af-72c18f10873d"
+        },
+        {
+          "id": "resource_459eb4a541738ad2",
+          "type": "link",
+          "name": "Resource 61",
+          "url": "https://www.flaticon.com/free-icon/bpa-free_3778962?related_id=3778962",
+          "slide": "story/slides/slide31.xml",
+          "status": "active",
+          "storyline_trigger_id": "68785353-eef7-4978-a9a1-a444d2be00d4"
+        },
+        {
+          "id": "resource_cf07333dce77",
+          "type": "link",
+          "name": "Resource 62",
+          "url": "http://www.healthcaredevelopmentmagazine.com/article/pharmaceutical-waste-a-new-healthcare-challenge.html",
+          "slide": "story/slides/slide32.xml",
+          "status": "active",
+          "storyline_trigger_id": "cf07333d-ce77-49bf-9d34-950482c7fc25"
+        },
+        {
+          "id": "resource_918a31f88e8f",
+          "type": "link",
+          "name": "Resource 63",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1618889/",
+          "slide": "story/slides/slide3c.xml",
+          "status": "active",
+          "storyline_trigger_id": "918a31f8-8e8f-454e-8858-c99ba0eb815d"
+        },
+        {
+          "id": "resource_831f462cc6c0",
+          "type": "link",
+          "name": "Resource 64",
+          "url": "https://www.drugoffice.gov.hk/eps/do/en/consumer/news_informations/dm_04.html",
+          "slide": "story/slides/slide3d.xml",
+          "status": "active",
+          "storyline_trigger_id": "831f462c-c6c0-43a7-85de-206839360ebf"
+        },
+        {
+          "id": "resource_4cbcae302260",
+          "type": "link",
+          "name": "Resource 65",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=2321694",
+          "slide": "story/slides/slide3f.xml",
+          "status": "active",
+          "storyline_trigger_id": "4cbcae30-2260-4784-93b7-6b925e9c3eea"
+        },
+        {
+          "id": "resource_1cee3a422b321d5d",
+          "type": "link",
+          "name": "Resource 66",
+          "url": "https://www.bangkokpost.com/thailand/general/1667156/committee-warned-over-paraquat-ban",
+          "slide": "story/slides/slide40.xml",
+          "status": "active",
+          "storyline_trigger_id": "250a2238-6b60-4000-956b-db9f058bd768"
+        },
+        {
+          "id": "resource_2c54f5943162",
+          "type": "link",
+          "name": "Resource 67",
+          "url": "http://www.cancer.ca/en/cancer-information/cancer-101/cancer-statistics-at-a-glance/?region=on",
+          "slide": "story/slides/slide43.xml",
+          "status": "active",
+          "storyline_trigger_id": "2c54f594-3162-4676-bf4e-07cd66fda04f"
+        },
+        {
+          "id": "resource_416ac20d59f5",
+          "type": "link",
+          "name": "Resource 68",
+          "url": "http://www.cancer.ca/",
+          "slide": "story/slides/slide43.xml",
+          "status": "active",
+          "storyline_trigger_id": "416ac20d-59f5-4799-abc1-b29a4349827a"
+        },
+        {
+          "id": "resource_1639f5958ffe",
+          "type": "link",
+          "name": "Resource 69",
+          "url": "https://www.flaticon.com/premium-icon/sun-protection_2045881?term=sunscreen&related_id=2045881",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "1639f595-8ffe-42ba-8c47-0ff0b7de13c3"
+        },
+        {
+          "id": "resource_970e8213e88e",
+          "type": "link",
+          "name": "Resource 70",
+          "url": "https://www.flaticon.com/free-icon/alcohol_1775321?term=alcohol&page=1&position=44&page=1&position=44&related_id=1775321&origin=search",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "970e8213-e88e-477c-ab3b-ba519e78d0ad"
+        },
+        {
+          "id": "resource_9b7df7fbd720",
+          "type": "link",
+          "name": "Resource 71",
+          "url": "https://www.flaticon.com/free-icon/cigarette_850213?term=tobacco&page=1&position=9&page=1&position=9&related_id=850213&origin=search",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "9b7df7fb-d720-4c17-860e-5ff842e2f98f"
+        },
+        {
+          "id": "resource_f0850e305552",
+          "type": "link",
+          "name": "Resource 72",
+          "url": "https://www.flaticon.com/free-icon/diet_706195?term=healthy%20food&page=1&position=4&page=1&position=4&related_id=706195&origin=search",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "f0850e30-5552-4542-8068-d937bd57236a"
+        },
+        {
+          "id": "resource_a968c4e34da0",
+          "type": "link",
+          "name": "Resource 73",
+          "url": "https://www.flaticon.com/premium-icon/active_3663544?term=active&page=1&position=3&page=1&position=3&related_id=3663544&origin=search",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "a968c4e3-4da0-4b69-a8bc-684d913c183f"
+        },
+        {
+          "id": "resource_57c146013853",
+          "type": "link",
+          "name": "Resource 74",
+          "url": "https://www.flaticon.com/premium-icon/vaccine_4191422?term=vaccine&page=1&position=13&page=1&position=13&related_id=4191422&origin=search",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "57c14601-3853-408c-91ec-1d0b877805be"
+        },
+        {
+          "id": "resource_c3b764bb8e73",
+          "type": "link",
+          "name": "Resource 75",
+          "url": "https://pixabay.com/en/bacillus-bacteria-biology-161109",
+          "slide": "story/slides/slide53.xml",
+          "status": "active",
+          "storyline_trigger_id": "c3b764bb-8e73-4d58-80d9-f167beb47a50"
+        },
+        {
+          "id": "resource_2169a66c752b",
+          "type": "link",
+          "name": "Resource 76",
+          "url": "http://all-free-download.com/free-vector/download/virus_116937.html",
+          "slide": "story/slides/slide53.xml",
+          "status": "active",
+          "storyline_trigger_id": "2169a66c-752b-40d4-b0f3-20a282961d64"
+        },
+        {
+          "id": "resource_41bd0b4012ec",
+          "type": "link",
+          "name": "Resource 77",
+          "url": "https://www.canada.ca/en/health-canada/services/health-concerns/tobacco/legislation/tobacco-product-labelling/smoking-mortality.html",
+          "slide": "story/slides/slide55.xml",
+          "status": "active",
+          "storyline_trigger_id": "41bd0b40-12ec-414d-a92c-8aae1a11892a"
+        },
+        {
+          "id": "resource_1c002bd2d3ac",
+          "type": "link",
+          "name": "Resource 78",
+          "url": "https://twitter.com/CDCTobaccoFree/status/425634788435705857/photo/1",
+          "slide": "story/slides/slide55.xml",
+          "status": "active",
+          "storyline_trigger_id": "1c002bd2-d3ac-4b06-a6db-d96a98055c87"
+        },
+        {
+          "id": "resource_6c54cd7b5708",
+          "type": "link",
+          "name": "Resource 79",
+          "url": "https://food-guide.canada.ca/en/",
+          "slide": "story/slides/slide56.xml",
+          "status": "active",
+          "storyline_trigger_id": "6c54cd7b-5708-4986-ba9d-cc9833ad1121"
         }
       ]
     }
