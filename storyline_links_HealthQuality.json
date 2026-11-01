@@ -1,8 +1,942 @@
 {
   "schema_version": "1.0",
   "course": {
-    "id": "",
-    "name": ""
+    "id": "HealthQuality",
+    "name": "Health Quality"
   },
-  "modules": []
+  "modules": [
+    {
+      "id": "MODULE_01",
+      "name": "Module 1",
+      "resources": [
+        {
+          "id": "resource_e5e16179ae90",
+          "type": "link",
+          "name": "Resource 1",
+          "url": "https://www.queensu.ca/indigenous/land-acknowledgement",
+          "slide": "story/slides/slide2.xml",
+          "status": "active",
+          "storyline_trigger_id": "e5e16179-ae90-4eaa-a205-0e98e2182043"
+        },
+        {
+          "id": "resource_cbb81c21dd74",
+          "type": "link",
+          "name": "Resource 2",
+          "url": "https://www.queensu.ca/indigenous/land-acknowledgement",
+          "slide": "story/slides/slide2.xml",
+          "status": "active",
+          "storyline_trigger_id": "cbb81c21-dd74-46b6-8f9f-3b6e3787607b"
+        },
+        {
+          "id": "resource_94d035b7eaaf",
+          "type": "link",
+          "name": "Resource 3",
+          "url": "https://www.queensu.ca/indigenous/land-acknowledgement",
+          "slide": "story/slides/slide2.xml",
+          "status": "active",
+          "storyline_trigger_id": "94d035b7-eaaf-4377-a93b-32487e483322"
+        },
+        {
+          "id": "resource_985833e007a2",
+          "type": "link",
+          "name": "Resource 4",
+          "url": "https://www.queensu.ca/encyclopedia/h/history-queens-overview",
+          "slide": "story/slides/slide3.xml",
+          "status": "active",
+          "storyline_trigger_id": "985833e0-07a2-4a8f-a8e6-66fb58180586"
+        },
+        {
+          "id": "resource_e09a7c3b72a0",
+          "type": "link",
+          "name": "Resource 5",
+          "url": "https://www.queensu.ca/about/kingston",
+          "slide": "story/slides/slide3.xml",
+          "status": "active",
+          "storyline_trigger_id": "e09a7c3b-72a0-4c5e-83bd-ec39f3fd34b4"
+        },
+        {
+          "id": "resource_ede06d9056c0",
+          "type": "link",
+          "name": "Resource 6",
+          "url": "https://www.merriam-webster.com/dictionary/quality",
+          "slide": "story/slides/slide10.xml",
+          "status": "active",
+          "storyline_trigger_id": "ede06d90-56c0-4cf7-911e-4dfc6dd6e62d"
+        },
+        {
+          "id": "resource_d2e7014a4e08",
+          "type": "link",
+          "name": "Resource 7",
+          "url": "https://www.hqontario.ca/Quality-Improvement",
+          "slide": "story/slides/slide11.xml",
+          "status": "active",
+          "storyline_trigger_id": "d2e7014a-4e08-48b1-9361-510a25a8811f"
+        },
+        {
+          "id": "resource_211fd1c22a9d",
+          "type": "link",
+          "name": "Resource 8",
+          "url": "http://dx.doi.org/10.1136/qshc.2006.022046",
+          "slide": "story/slides/slide11.xml",
+          "status": "active",
+          "storyline_trigger_id": "211fd1c2-2a9d-4c12-a835-5fb4b3d6771a"
+        },
+        {
+          "id": "resource_5c78eda66d8c",
+          "type": "link",
+          "name": "Resource 9",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK222274/",
+          "slide": "story/slides/slide12.xml",
+          "status": "active",
+          "storyline_trigger_id": "5c78eda6-6d8c-4fb1-820f-5726b851b9fc"
+        },
+        {
+          "id": "resource_53199cdbe685",
+          "type": "link",
+          "name": "Resource 10",
+          "url": "http://www.hqontario.ca/portals/0/documents/health-quality/realizing-excellent-care-for-all-en.pdf",
+          "slide": "story/slides/slide12.xml",
+          "status": "active",
+          "storyline_trigger_id": "53199cdb-e685-4eaa-a0ad-750a985242bc"
+        },
+        {
+          "id": "resource_ce3d96e91e04",
+          "type": "link",
+          "name": "Resource 11",
+          "url": "https://doi.org/10.1016/S1070-3241(16)30305-4",
+          "slide": "story/slides/slide14.xml",
+          "status": "active",
+          "storyline_trigger_id": "ce3d96e9-1e04-4db8-9e59-f6e6df9787c1"
+        },
+        {
+          "id": "resource_adc63067791a",
+          "type": "link",
+          "name": "Resource 13",
+          "url": "http://www.ihi.org/resources/Pages/IHIWhitePapers/whole-system-quality.aspx",
+          "slide": "story/slides/slide15.xml",
+          "status": "active",
+          "storyline_trigger_id": "adc63067-791a-48b5-b407-896ac248a1c2"
+        },
+        {
+          "id": "resource_671e442e9a8e",
+          "type": "link",
+          "name": "Resource 14",
+          "url": "http://www.ihi.org/resources/Pages/IHIWhitePapers/whole-system-quality.aspx",
+          "slide": "story/slides/slide15.xml",
+          "status": "active",
+          "storyline_trigger_id": "671e442e-9a8e-4398-b2b6-3874e958ce5c"
+        },
+        {
+          "id": "resource_96e60b6923ba",
+          "type": "link",
+          "name": "Resource 15",
+          "url": "http://www.ihi.org/resources/Pages/IHIWhitePapers/whole-system-quality.aspx",
+          "slide": "story/slides/slide16.xml",
+          "status": "active",
+          "storyline_trigger_id": "96e60b69-23ba-4f3a-ac95-6d038a0897a1"
+        },
+        {
+          "id": "resource_34568ca20526",
+          "type": "link",
+          "name": "Resource 16",
+          "url": "https://www.merriam-webster.com/dictionary/risk",
+          "slide": "story/slides/slide19.xml",
+          "status": "active",
+          "storyline_trigger_id": "34568ca2-0526-4563-aef8-1935fa13fca4"
+        },
+        {
+          "id": "resource_6fd26122f599",
+          "type": "link",
+          "name": "Resource 17",
+          "url": "https://www.merriam-webster.com/dictionary/safety",
+          "slide": "story/slides/slide1d.xml",
+          "status": "active",
+          "storyline_trigger_id": "6fd26122-f599-4509-be77-7d0589bfa87f"
+        },
+        {
+          "id": "resource_043b4207aecf",
+          "type": "link",
+          "name": "Resource 18",
+          "url": "https://psnet.ahrq.gov/perspective/organizational-change-face-highly-public-errors-i-dana-farber-cancer-institute",
+          "slide": "story/slides/slide23.xml",
+          "status": "active",
+          "storyline_trigger_id": "043b4207-aecf-4c45-924e-19d0bc34b96c"
+        },
+        {
+          "id": "resource_403fd5fc7b55",
+          "type": "link",
+          "name": "Resource 19",
+          "url": "https://openpublichealthjournal.com/contents/volumes/V2/TOPHJ-2-25/TOPHJ-2-25.pdf",
+          "slide": "story/slides/slide23.xml",
+          "status": "active",
+          "storyline_trigger_id": "403fd5fc-7b55-4000-9972-d3186898dab0"
+        },
+        {
+          "id": "resource_b0498792fa24",
+          "type": "link",
+          "name": "Resource 20",
+          "url": "https://www.ihi.org/",
+          "slide": "story/slides/slide23.xml",
+          "status": "active",
+          "storyline_trigger_id": "b0498792-fa24-4ce6-a6c6-0da347f8fb87"
+        },
+        {
+          "id": "resource_2dabf81b73b9",
+          "type": "link",
+          "name": "Resource 21",
+          "url": "https://www.patientsafetyinstitute.ca/en/About/Pages/default.aspx",
+          "slide": "story/slides/slide25.xml",
+          "status": "active",
+          "storyline_trigger_id": "2dabf81b-73b9-4ced-b3cb-4040c791bec7"
+        },
+        {
+          "id": "resource_1d92c5278a86",
+          "type": "link",
+          "name": "Resource 22",
+          "url": "https://doi.org/10.3821/145.2.cpj88",
+          "slide": "story/slides/slide26.xml",
+          "status": "active",
+          "storyline_trigger_id": "1d92c527-8a86-4432-8b5e-73f296bff965"
+        },
+        {
+          "id": "resource_24b0201b7a47",
+          "type": "link",
+          "name": "Resource 23",
+          "url": "https://doi.org/10.1787/5a9858cd-en",
+          "slide": "story/slides/slide26.xml",
+          "status": "active",
+          "storyline_trigger_id": "24b0201b-7a47-4a67-a090-5e711dfd52b3"
+        },
+        {
+          "id": "resource_777752ebca43",
+          "type": "link",
+          "name": "Resource 24",
+          "url": "https://www.oecd.org/health/health-systems/Economics-of-Patient-Safety-October-2020.pdf",
+          "slide": "story/slides/slide26.xml",
+          "status": "active",
+          "storyline_trigger_id": "777752eb-ca43-4a2b-8f3d-e4318ffc3349"
+        },
+        {
+          "id": "resource_5457a14f3b96",
+          "type": "link",
+          "name": "Resource 25",
+          "url": "https://doi.org/10.1136/bmj.i2139",
+          "slide": "story/slides/slide26.xml",
+          "status": "active",
+          "storyline_trigger_id": "5457a14f-3b96-4906-a44a-4f48bd7dcc56"
+        },
+        {
+          "id": "resource_7acc860c451e",
+          "type": "link",
+          "name": "Resource 26",
+          "url": "https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158",
+          "slide": "story/slides/slide26.xml",
+          "status": "active",
+          "storyline_trigger_id": "7acc860c-451e-4b2b-9684-72ede16df9fb"
+        },
+        {
+          "id": "resource_f052493f560d",
+          "type": "link",
+          "name": "Resource 27",
+          "url": "https://doi.org/10.1136/bmj.320.7237.768",
+          "slide": "story/slides/slide2a.xml",
+          "status": "active",
+          "storyline_trigger_id": "f052493f-560d-4caf-9404-cb149b822c33"
+        },
+        {
+          "id": "resource_2e96b6a90c39",
+          "type": "link",
+          "name": "Resource 28",
+          "url": "http://www.health.org.uk/publications/the-measurement-and-monitoring-of-safety/",
+          "slide": "story/slides/slide2a.xml",
+          "status": "active",
+          "storyline_trigger_id": "2e96b6a9-0c39-428f-b043-c8cb708c85d3"
+        },
+        {
+          "id": "resource_4777d4d3b997",
+          "type": "link",
+          "name": "Resource 29",
+          "url": "https://doi.org/10.1136/bmj.320.7237.768",
+          "slide": "story/slides/slide2a.xml",
+          "status": "active",
+          "storyline_trigger_id": "4777d4d3-b997-4e95-a1fc-48c052234f98"
+        },
+        {
+          "id": "resource_a03fbe7f363f",
+          "type": "link",
+          "name": "Resource 30",
+          "url": "http://www.ihi.org/resources/Pages/Tools/FailureModesandEffectsAnalysisTool.aspx",
+          "slide": "story/slides/slide2b.xml",
+          "status": "active",
+          "storyline_trigger_id": "a03fbe7f-363f-491a-b100-a17a39bcc1d2"
+        },
+        {
+          "id": "resource_8a5dc243fb56",
+          "type": "link",
+          "name": "Resource 31",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK555513/",
+          "slide": "story/slides/slide2b.xml",
+          "status": "active",
+          "storyline_trigger_id": "8a5dc243-fb56-430a-97a6-8cd43c4015a0"
+        },
+        {
+          "id": "resource_640cdaef4534",
+          "type": "link",
+          "name": "Resource 32",
+          "url": "https://doi.org/10.7939/r3-j9b3-2p88",
+          "slide": "story/slides/slide2b.xml",
+          "status": "active",
+          "storyline_trigger_id": "640cdaef-4534-43fd-a1db-e48c0985d81a"
+        },
+        {
+          "id": "resource_6197c4ebca3a",
+          "type": "link",
+          "name": "Resource 33",
+          "url": "http://www.ihi.org/resources/Pages/Tools/FailureModesandEffectsAnalysisTool.aspx",
+          "slide": "story/slides/slide2c.xml",
+          "status": "active",
+          "storyline_trigger_id": "6197c4eb-ca3a-4552-8ce2-2d59628c4975"
+        },
+        {
+          "id": "resource_20bd64d11cd9",
+          "type": "link",
+          "name": "Resource 34",
+          "url": "https://www.ismp-canada.org/TALLman/",
+          "slide": "story/slides/slide2c.xml",
+          "status": "active",
+          "storyline_trigger_id": "20bd64d1-1cd9-4d8b-a625-7473bd1337d2"
+        },
+        {
+          "id": "resource_63960de8edee",
+          "type": "link",
+          "name": "Resource 35",
+          "url": "http://www.ihi.org/resources/Pages/Tools/FailureModesandEffectsAnalysisTool.aspx",
+          "slide": "story/slides/slide2d.xml",
+          "status": "active",
+          "storyline_trigger_id": "63960de8-edee-44e0-a5f5-9bd1122a123b"
+        },
+        {
+          "id": "resource_d0857f88ee9f",
+          "type": "link",
+          "name": "Resource 36",
+          "url": "https://www.ismp-canada.org/TALLman/",
+          "slide": "story/slides/slide2d.xml",
+          "status": "active",
+          "storyline_trigger_id": "d0857f88-ee9f-4d1d-a042-6227a88f70e5"
+        },
+        {
+          "id": "resource_ee82c07fc244",
+          "type": "link",
+          "name": "Resource 37",
+          "url": "https://www.patientsafetyinstitute.ca/en/About/Programs/PPSC/Pages/Join-us-in-recognizing-15-years-of-patients-improving-patient-safety-2021-02-18.aspx",
+          "slide": "story/slides/slide2e.xml",
+          "status": "active",
+          "storyline_trigger_id": "ee82c07f-c244-4558-9741-b3a7300b6792"
+        },
+        {
+          "id": "resource_b7b9b352e721",
+          "type": "link",
+          "name": "Resource 38",
+          "url": "https://cdn.who.int/media/docs/default-source/patient-safety/pfps/pfps_brochure_2013.pdf?sfvrsn=45a18595_7",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "b7b9b352-e721-46f5-8c2f-83b8a4f10e4a"
+        },
+        {
+          "id": "resource_3eeef011f0e2",
+          "type": "link",
+          "name": "Resource 39",
+          "url": "https://www.who.int/initiatives/patients-for-patient-safety",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "3eeef011-f0e2-4836-87a0-28c6669df89a"
+        },
+        {
+          "id": "resource_889eeee47d99",
+          "type": "link",
+          "name": "Resource 40",
+          "url": "https://www.patientsafetyinstitute.ca/en/About/Programs/PPSC/Pages/default.aspx",
+          "slide": "story/slides/slide2f.xml",
+          "status": "active",
+          "storyline_trigger_id": "889eeee4-7d99-427f-b5a7-840611e1256d"
+        },
+        {
+          "id": "resource_9c0f18cb5d38",
+          "type": "link",
+          "name": "Resource 41",
+          "url": "https://www.who.int/publications/i/item/WHO-HIS-SDS-2015.18",
+          "slide": "story/slides/slide30.xml",
+          "status": "active",
+          "storyline_trigger_id": "9c0f18cb-5d38-4e75-8769-6ce743d58b2f"
+        },
+        {
+          "id": "resource_39a527ef2573",
+          "type": "link",
+          "name": "Resource 42",
+          "url": "https://www.who.int/publications/i/item/WHO-HIS-SDS-2019.6",
+          "slide": "story/slides/slide30.xml",
+          "status": "active",
+          "storyline_trigger_id": "39a527ef-2573-4305-b061-7a5ec5332f2c"
+        },
+        {
+          "id": "resource_8491873fc299",
+          "type": "link",
+          "name": "Resource 43",
+          "url": "https://www.who.int/publications/i/item/WHO-HIS-SDS-2015.18",
+          "slide": "story/slides/slide30.xml",
+          "status": "active",
+          "storyline_trigger_id": "8491873f-c299-40e2-afd0-7992e1cfaf9a"
+        },
+        {
+          "id": "resource_ede77eb55daa",
+          "type": "link",
+          "name": "Resource 44",
+          "url": "https://www.who.int/publications/i/item/WHO-HIS-SDS-2019.6",
+          "slide": "story/slides/slide30.xml",
+          "status": "active",
+          "storyline_trigger_id": "ede77eb5-5daa-42c2-9b1b-4d8d239edb90"
+        },
+        {
+          "id": "resource_8c6edc00f00e",
+          "type": "link",
+          "name": "Resource 45",
+          "url": "https://doi.org/10.12927/hcq.2012.22845",
+          "slide": "story/slides/slide32.xml",
+          "status": "active",
+          "storyline_trigger_id": "8c6edc00-f00e-4faf-85a0-3f18a5e0a21c"
+        },
+        {
+          "id": "resource_76122056cf63",
+          "type": "link",
+          "name": "Resource 46",
+          "url": "https://www.who.int/docs/default-source/patient-safety/1st-draft-global-patient-safety-action-plan-august-2020.pdf",
+          "slide": "story/slides/slide33.xml",
+          "status": "active",
+          "storyline_trigger_id": "76122056-cf63-43fc-aace-0830e1b1fecb"
+        },
+        {
+          "id": "resource_f2cb8136f83e",
+          "type": "link",
+          "name": "Resource 47",
+          "url": "https://www.who.int/publications/i/item/9789240035584",
+          "slide": "story/slides/slide33.xml",
+          "status": "active",
+          "storyline_trigger_id": "f2cb8136-f83e-47e0-8707-70c14eb943d1"
+        },
+        {
+          "id": "resource_b2e2c5e48105",
+          "type": "link",
+          "name": "Resource 48",
+          "url": "https://www.who.int/campaigns/world-patient-safety-day/2020",
+          "slide": "story/slides/slide33.xml",
+          "status": "active",
+          "storyline_trigger_id": "b2e2c5e4-8105-462a-ac11-408f11a6dee7"
+        },
+        {
+          "id": "resource_4b2903a98cc7",
+          "type": "link",
+          "name": "Resource 49",
+          "url": "https://www.cihi.ca/en/canada-continues-to-lag-behind-other-oecd-countries-on-measures-of-patient-safety",
+          "slide": "story/slides/slide34.xml",
+          "status": "active",
+          "storyline_trigger_id": "4b2903a9-8cc7-4ea1-bd35-eef14fd14048"
+        },
+        {
+          "id": "resource_f140bca2ed3b",
+          "type": "link",
+          "name": "Resource 50",
+          "url": "https://www.cihi.ca/en/canada-continues-to-lag-behind-other-oecd-countries-on-measures-of-patient-safety",
+          "slide": "story/slides/slide34.xml",
+          "status": "active",
+          "storyline_trigger_id": "f140bca2-ed3b-419e-87d4-5721de2bdbcc"
+        },
+        {
+          "id": "resource_1553ccca4877",
+          "type": "link",
+          "name": "Resource 51",
+          "url": "https://www.health.nsw.gov.au/Performance/Pages/hith.aspx",
+          "slide": "story/slides/slide36.xml",
+          "status": "active",
+          "storyline_trigger_id": "1553ccca-4877-4faa-9178-fd1df83f44c3"
+        },
+        {
+          "id": "resource_40887cbf5cd0",
+          "type": "link",
+          "name": "Resource 52",
+          "url": "https://doi.org/10.1177/1460458219833102",
+          "slide": "story/slides/slide37.xml",
+          "status": "active",
+          "storyline_trigger_id": "40887cbf-5cd0-4bb0-9f66-dc93c1e8aa16"
+        },
+        {
+          "id": "resource_6c3318d36333",
+          "type": "link",
+          "name": "Resource 53",
+          "url": "https://www.surgicalsafety.com/index.php",
+          "slide": "story/slides/slide37.xml",
+          "status": "active",
+          "storyline_trigger_id": "6c3318d3-6333-4298-ba1e-d32cb41b4dd4"
+        },
+        {
+          "id": "resource_4d7787de4e7b",
+          "type": "link",
+          "name": "Resource 54",
+          "url": "https://www.hrhfoundation.ca/blog/pepper/",
+          "slide": "story/slides/slide38.xml",
+          "status": "active",
+          "storyline_trigger_id": "4d7787de-4e7b-4679-8ce1-2dec915d84fa"
+        },
+        {
+          "id": "resource_4edd67070935",
+          "type": "link",
+          "name": "Resource 55",
+          "url": "https://www.softbankrobotics.com/emea/en/pepper",
+          "slide": "story/slides/slide38.xml",
+          "status": "active",
+          "storyline_trigger_id": "4edd6707-0935-4668-9955-f8a44032f939"
+        },
+        {
+          "id": "resource_e0579fc264d7",
+          "type": "link",
+          "name": "Resource 56",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide3d.xml",
+          "status": "active",
+          "storyline_trigger_id": "e0579fc2-64d7-4ffb-9666-603df2b9a09c"
+        },
+        {
+          "id": "resource_3f10994d6b5e",
+          "type": "link",
+          "name": "Resource 57",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide3d.xml",
+          "status": "active",
+          "storyline_trigger_id": "3f10994d-6b5e-4283-bca2-518af93f2753"
+        },
+        {
+          "id": "resource_0d1eb13e2b59",
+          "type": "link",
+          "name": "Resource 58",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide3e.xml",
+          "status": "active",
+          "storyline_trigger_id": "0d1eb13e-2b59-407d-9231-a9f6cfd8ac41"
+        },
+        {
+          "id": "resource_205605394bab",
+          "type": "link",
+          "name": "Resource 59",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide3e.xml",
+          "status": "active",
+          "storyline_trigger_id": "20560539-4bab-4970-8f23-24b0a94db54b"
+        },
+        {
+          "id": "resource_65a5d83aac630839",
+          "type": "link",
+          "name": "Resource 60",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide3f.xml",
+          "status": "active",
+          "storyline_trigger_id": "0d1eb13e-2b59-407d-9231-a9f6cfd8ac41"
+        },
+        {
+          "id": "resource_d2a5d3129e845ac1",
+          "type": "link",
+          "name": "Resource 61",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide3f.xml",
+          "status": "active",
+          "storyline_trigger_id": "20560539-4bab-4970-8f23-24b0a94db54b"
+        },
+        {
+          "id": "resource_cda9fc4c73209419",
+          "type": "link",
+          "name": "Resource 62",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide40.xml",
+          "status": "active",
+          "storyline_trigger_id": "0d1eb13e-2b59-407d-9231-a9f6cfd8ac41"
+        },
+        {
+          "id": "resource_8cbba8de19fd1d4b",
+          "type": "link",
+          "name": "Resource 63",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide40.xml",
+          "status": "active",
+          "storyline_trigger_id": "20560539-4bab-4970-8f23-24b0a94db54b"
+        },
+        {
+          "id": "resource_7b426d2e71b02f14",
+          "type": "link",
+          "name": "Resource 64",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide41.xml",
+          "status": "active",
+          "storyline_trigger_id": "0d1eb13e-2b59-407d-9231-a9f6cfd8ac41"
+        },
+        {
+          "id": "resource_7bedd19a4c9c07f6",
+          "type": "link",
+          "name": "Resource 65",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide41.xml",
+          "status": "active",
+          "storyline_trigger_id": "20560539-4bab-4970-8f23-24b0a94db54b"
+        },
+        {
+          "id": "resource_31d2f935968fd230",
+          "type": "link",
+          "name": "Resource 66",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide42.xml",
+          "status": "active",
+          "storyline_trigger_id": "0d1eb13e-2b59-407d-9231-a9f6cfd8ac41"
+        },
+        {
+          "id": "resource_a0b5c8e3eac23d6f",
+          "type": "link",
+          "name": "Resource 67",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide42.xml",
+          "status": "active",
+          "storyline_trigger_id": "20560539-4bab-4970-8f23-24b0a94db54b"
+        },
+        {
+          "id": "resource_6539790b0adbcec4",
+          "type": "link",
+          "name": "Resource 68",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide43.xml",
+          "status": "active",
+          "storyline_trigger_id": "0d1eb13e-2b59-407d-9231-a9f6cfd8ac41"
+        },
+        {
+          "id": "resource_6a201cd424373e98",
+          "type": "link",
+          "name": "Resource 69",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide43.xml",
+          "status": "active",
+          "storyline_trigger_id": "20560539-4bab-4970-8f23-24b0a94db54b"
+        },
+        {
+          "id": "resource_21487d05e7ac",
+          "type": "link",
+          "name": "Resource 70",
+          "url": "https://www.patientsafetyinstitute.ca/en/education/PatientSafetyEducationProgram/PatientSafetyEducationCurriculum/Pages/How-to-Build-Patient-Safety-and-Quality-Content-into-Education-Programs.aspx",
+          "slide": "story/slides/slide44.xml",
+          "status": "active",
+          "storyline_trigger_id": "21487d05-e7ac-48ef-bfed-ffd2fd8975d8"
+        },
+        {
+          "id": "resource_da08110c687a",
+          "type": "link",
+          "name": "Resource 71",
+          "url": "https://www.patientsafetyinstitute.ca/en/education/PatientSafetyEducationProgram/PatientSafetyEducationCurriculum/Pages/How-to-Build-Patient-Safety-and-Quality-Content-into-Education-Programs.aspx",
+          "slide": "story/slides/slide44.xml",
+          "status": "active",
+          "storyline_trigger_id": "da08110c-687a-4bcd-808f-1af7dfb6b3a1"
+        },
+        {
+          "id": "resource_f68a97f3f7c7",
+          "type": "link",
+          "name": "Resource 72",
+          "url": "https://apps.who.int/iris/handle/10665/69797",
+          "slide": "story/slides/slide45.xml",
+          "status": "active",
+          "storyline_trigger_id": "f68a97f3-f7c7-424b-9551-d9ef20d4efe4"
+        },
+        {
+          "id": "resource_41d83b53e85f",
+          "type": "link",
+          "name": "Resource 73",
+          "url": "https://www.who.int/patientsafety/taxonomy/icps_full_report.pdf",
+          "slide": "story/slides/slide45.xml",
+          "status": "active",
+          "storyline_trigger_id": "41d83b53-e85f-41ea-a5dc-da87dbfc6c41"
+        },
+        {
+          "id": "resource_4bd01d2d36c4",
+          "type": "link",
+          "name": "Resource 74",
+          "url": "https://apps.who.int/iris/handle/10665/69797",
+          "slide": "story/slides/slide45.xml",
+          "status": "active",
+          "storyline_trigger_id": "4bd01d2d-36c4-4b1d-8eb9-71dd113a8f1f"
+        },
+        {
+          "id": "resource_c3d12296db16",
+          "type": "link",
+          "name": "Resource 75",
+          "url": "https://www.who.int/docs/default-source/patient-safety/1st-draft-global-patient-safety-action-plan-august-2020.pdf",
+          "slide": "story/slides/slide46.xml",
+          "status": "active",
+          "storyline_trigger_id": "c3d12296-db16-470e-a060-1f3a8d388378"
+        },
+        {
+          "id": "resource_ed5d924d18a5",
+          "type": "link",
+          "name": "Resource 76",
+          "url": "https://www.who.int/docs/default-source/patient-safety/1st-draft-global-patient-safety-action-plan-august-2020.pdf?sfvrsn=9b1552d2_4",
+          "slide": "story/slides/slide47.xml",
+          "status": "active",
+          "storyline_trigger_id": "ed5d924d-18a5-478b-b821-4b465916729c"
+        },
+        {
+          "id": "resource_aa8a5b05769b",
+          "type": "link",
+          "name": "Resource 77",
+          "url": "https://www.solutionsforpatientsafety.org/about-us/how-we-work/",
+          "slide": "story/slides/slide48.xml",
+          "status": "active",
+          "storyline_trigger_id": "aa8a5b05-769b-4ce5-8978-6e8d595a33a2"
+        },
+        {
+          "id": "resource_74e1209317f4",
+          "type": "link",
+          "name": "Resource 78",
+          "url": "https://www.solutionsforpatientsafety.org/our-results/",
+          "slide": "story/slides/slide48.xml",
+          "status": "active",
+          "storyline_trigger_id": "74e12093-17f4-488a-8b10-00af595e9376"
+        },
+        {
+          "id": "resource_fd85a904774a",
+          "type": "link",
+          "name": "Resource 79",
+          "url": "https://youtu.be/EiPs-743Frg",
+          "slide": "story/slides/slide48.xml",
+          "status": "active",
+          "storyline_trigger_id": "fd85a904-774a-426b-8b22-780bcb7980fa"
+        },
+        {
+          "id": "resource_ae7e440f9dd902e0",
+          "type": "link",
+          "name": "Resource 80",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "0d1eb13e-2b59-407d-9231-a9f6cfd8ac41"
+        },
+        {
+          "id": "resource_56da2e51983d82d3",
+          "type": "link",
+          "name": "Resource 81",
+          "url": "https://www.patientsafetyinstitute.ca/en/toolsResources/safetyCompetencies/Documents/CPSI-SafetyCompetencies_en_Digital.pdf",
+          "slide": "story/slides/slide49.xml",
+          "status": "active",
+          "storyline_trigger_id": "20560539-4bab-4970-8f23-24b0a94db54b"
+        },
+        {
+          "id": "resource_b1050de785096610",
+          "type": "link",
+          "name": "Resource 82",
+          "url": "https://www.hiroc.com/system/files/resource/files/2020-11/Medication_Adverse_Events.pdf",
+          "slide": "story/slides/slide4a.xml",
+          "status": "active",
+          "storyline_trigger_id": "9c0f18cb-5d38-4e75-8769-6ce743d58b2f"
+        },
+        {
+          "id": "resource_d5e3bf5ff05c74de",
+          "type": "link",
+          "name": "Resource 83",
+          "url": "https://www.hiroc.com/system/files/resource/files/2020-04/Risk%20Profile%20CARE%20%E2%80%93%20Supply%20Shortages_0.pdf",
+          "slide": "story/slides/slide4a.xml",
+          "status": "active",
+          "storyline_trigger_id": "39a527ef-2573-4305-b061-7a5ec5332f2c"
+        },
+        {
+          "id": "resource_55429804a2e3",
+          "type": "link",
+          "name": "Resource 84",
+          "url": "https://www.hiroc.com/resources/risk-profiles/care-supply-shortages",
+          "slide": "story/slides/slide4a.xml",
+          "status": "active",
+          "storyline_trigger_id": "55429804-a2e3-42e4-9622-71b8da0ebe58"
+        },
+        {
+          "id": "resource_457431648887",
+          "type": "link",
+          "name": "Resource 85",
+          "url": "https://www.hiroc.com/resources/risk-reference-sheets/medication-adverse-events-0",
+          "slide": "story/slides/slide4a.xml",
+          "status": "active",
+          "storyline_trigger_id": "45743164-8887-441f-8f97-822c78764155"
+        },
+        {
+          "id": "resource_6466fe3b313c",
+          "type": "link",
+          "name": "Resource 86",
+          "url": "https://www.hiroc.com/resources/risk-profiles/care-supply-shortages",
+          "slide": "story/slides/slide4a.xml",
+          "status": "active",
+          "storyline_trigger_id": "6466fe3b-313c-4f9b-b3d9-5aabf1bd72bf"
+        },
+        {
+          "id": "resource_6550ea909355",
+          "type": "link",
+          "name": "Resource 87",
+          "url": "https://www.hiroc.com/resources/risk-reference-sheets/medication-adverse-events-0",
+          "slide": "story/slides/slide4a.xml",
+          "status": "active",
+          "storyline_trigger_id": "6550ea90-9355-46b5-94f8-4b27a4bf8870"
+        },
+        {
+          "id": "resource_58604409a123",
+          "type": "link",
+          "name": "Resource 88",
+          "url": "http://www.ihi.org/about/Documents/IHITimeline2021.pdf",
+          "slide": "story/slides/slide4b.xml",
+          "status": "active",
+          "storyline_trigger_id": "58604409-a123-4676-bcc8-01fc48b9665c"
+        },
+        {
+          "id": "resource_a0174a509a6f",
+          "type": "link",
+          "name": "Resource 89",
+          "url": "http://www.ihi.org/about/pages/history.aspx",
+          "slide": "story/slides/slide4b.xml",
+          "status": "active",
+          "storyline_trigger_id": "a0174a50-9a6f-4919-be69-e5f57ec05fb1"
+        },
+        {
+          "id": "resource_7ff9f02eb1c8",
+          "type": "link",
+          "name": "Resource 90",
+          "url": "http://www.ihi.org/about/Documents/IHITimeline2021.pdf",
+          "slide": "story/slides/slide4b.xml",
+          "status": "active",
+          "storyline_trigger_id": "7ff9f02e-b1c8-46a0-9e3f-e54a57338890"
+        },
+        {
+          "id": "resource_5b6b88a45d13",
+          "type": "link",
+          "name": "Resource 91",
+          "url": "http://www.ihi.org/about/Pages/IHIVisionandValues.aspx",
+          "slide": "story/slides/slide4b.xml",
+          "status": "active",
+          "storyline_trigger_id": "5b6b88a4-5d13-4502-a250-ed17a20ff124"
+        },
+        {
+          "id": "resource_72017d4efcaa",
+          "type": "link",
+          "name": "Resource 92",
+          "url": "http://www.ihi.org/",
+          "slide": "story/slides/slide4b.xml",
+          "status": "active",
+          "storyline_trigger_id": "72017d4e-fcaa-471f-9608-b6b0c4e31787"
+        },
+        {
+          "id": "resource_672fc777429d",
+          "type": "link",
+          "name": "Resource 93",
+          "url": "https://qualitysafety.bmj.com/content/30/11/901",
+          "slide": "story/slides/slide4e.xml",
+          "status": "active",
+          "storyline_trigger_id": "672fc777-429d-46af-8d81-3021a2b792fa"
+        },
+        {
+          "id": "resource_7d0889bdf61d",
+          "type": "link",
+          "name": "Resource 94",
+          "url": "https://doi.org/10.1016/j.apergo.2019.103033",
+          "slide": "story/slides/slide4e.xml",
+          "status": "active",
+          "storyline_trigger_id": "7d0889bd-f61d-44b6-827b-c59726ac6cce"
+        },
+        {
+          "id": "resource_53a1f76b8530",
+          "type": "link",
+          "name": "Resource 95",
+          "url": "https://qualitysafety.bmj.com/content/30/11/901",
+          "slide": "story/slides/slide4f.xml",
+          "status": "active",
+          "storyline_trigger_id": "53a1f76b-8530-45b4-a1ca-f47f7403e7f1"
+        },
+        {
+          "id": "resource_b56b920a823f",
+          "type": "link",
+          "name": "Resource 96",
+          "url": "https://doi.org/10.1093/intqhc/mzaa109",
+          "slide": "story/slides/slide4f.xml",
+          "status": "active",
+          "storyline_trigger_id": "b56b920a-823f-453c-907e-87df8f1caa5e"
+        },
+        {
+          "id": "resource_566ec1b15d58",
+          "type": "link",
+          "name": "Resource 97",
+          "url": "https://www.who.int/docs/default-source/patient-safety/1st-draft-global-patient-safety-action-plan-august-2020.pdf?sfvrsn=9b1552d2_4",
+          "slide": "story/slides/slide4f.xml",
+          "status": "active",
+          "storyline_trigger_id": "566ec1b1-5d58-440c-a98d-1cc470b03f24"
+        },
+        {
+          "id": "resource_a3584a8aa2a4",
+          "type": "link",
+          "name": "Resource 98",
+          "url": "https://doi.org/10.1016/j.apergo.2019.103033",
+          "slide": "story/slides/slide4f.xml",
+          "status": "active",
+          "storyline_trigger_id": "a3584a8a-a2a4-4a00-8d8d-7ec9ef6ef6b7"
+        },
+        {
+          "id": "resource_a0a9065c3cb4",
+          "type": "link",
+          "name": "Resource 99",
+          "url": "https://doi.org/10.1111/medu.13821",
+          "slide": "story/slides/slide50.xml",
+          "status": "active",
+          "storyline_trigger_id": "a0a9065c-3cb4-492f-afa6-d9a3ad5d6d8b"
+        },
+        {
+          "id": "resource_1b7549ccf6ffef6a",
+          "type": "link",
+          "name": "Resource 100",
+          "url": "https://doi.org/10.1016/S1070-3241(16)30305-4",
+          "slide": "story/slides/slide55.xml",
+          "status": "active",
+          "storyline_trigger_id": "ce3d96e9-1e04-4db8-9e59-f6e6df9787c1"
+        },
+        {
+          "id": "resource_520fa6e7da5a0d7c",
+          "type": "link",
+          "name": "Resource 101",
+          "url": "https://www.bbc.com/future/article/20210903-how-covid-19-could-finally-be-the-end-of-the-fax-machine",
+          "slide": "story/slides/slide55.xml",
+          "status": "active",
+          "storyline_trigger_id": "7f6961a9-a266-4b4e-bb06-5ea845f3a32d"
+        },
+        {
+          "id": "resource_af3356574c4d",
+          "type": "link",
+          "name": "Resource 102",
+          "url": "https://www.oecd.org/health/health-systems/Economics-of-Patient-Safety-October-2020.pdf",
+          "slide": "story/slides/slide57.xml",
+          "status": "active",
+          "storyline_trigger_id": "af335657-4c4d-4670-b179-6db27acdeff1"
+        },
+        {
+          "id": "resource_73e5198bcf60",
+          "type": "link",
+          "name": "Resource 103",
+          "url": "https://committees.parliament.uk/publications/7496/documents/78687/default/",
+          "slide": "story/slides/slide58.xml",
+          "status": "active",
+          "storyline_trigger_id": "73e5198b-cf60-431a-a4bd-e05f0100cbe3"
+        },
+        {
+          "id": "resource_1709d496259a",
+          "type": "link",
+          "name": "Resource 104",
+          "url": "https://www2.deloitte.com/us/en/insights/economy/covid-19/heart-of-resilient-leadership-responding-to-covid-19.html",
+          "slide": "story/slides/slide58.xml",
+          "status": "active",
+          "storyline_trigger_id": "1709d496-259a-4926-b15e-5c66f393c63f"
+        }
+      ]
+    }
+  ]
 }
